@@ -5,6 +5,8 @@
     "node": ">=0.8.0"
   },
   "scripts": {
+    "babel": "gulp babel",
+    "watch": "gulp watch",
     "build": "gulp build",
     "package": "gulp package"
   },
