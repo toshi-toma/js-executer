@@ -1,10 +1,12 @@
 # js-executer
 Execute your JavaScript Code on Web Page.
 
-Status: **_WIP_**
-
 # Usage
-TBW
+1. Click the toggle button.
+2. Input the your JavaScript Code at textarea.
+3. Click Save Button.
+
+Execute your JavaScript Code, When after page load!!
 
 # Build and Package
 ```bash
