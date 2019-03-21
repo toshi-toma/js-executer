@@ -1,5 +1,6 @@
 'use strict';
 
+// if defined the isExecute and jsCode, execute saved js code.
 window.onload = function() {
   chrome.storage.local.get(['isExecute'], ({ isExecute }) => {
     if (!isExecute) {
